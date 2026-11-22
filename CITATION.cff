@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the software release below and the accompanying paper."
+type: software
+title: "Gamma recovery and re-analysis from archived VMAT verification report PDFs"
+abstract: "Batch tool that recovers measured and planned dose maps from archived myQA verification report PDFs by inverting the embedded colour-scale images, registers the Eclipse DICOM RT Dose export onto the display grid, downsamples the measured map to the MatriXX 32x32 detector grid, and re-computes gamma along eight pathways (recovered TPS dose and DCM, each at native, block-averaged and aperture-smoothed sampling, plus the TPS self-consistency and reversed-reference controls)."
+authors:
+  - family-names: "Xin"
+    given-names: "Siyu"
+version: 1.0.0
+date-released: "2026-11-22"
+license: MIT
+keywords:
+  - volumetric modulated arc therapy
+  - patient-specific dose verification
+  - gamma analysis
+  - dose recovery
+  - DICOM RT Dose
+  - quality assurance
