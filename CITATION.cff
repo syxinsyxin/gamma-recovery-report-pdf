@@ -8,6 +8,8 @@ authors:
     given-names: "Siyu"
 version: 1.0.0
 date-released: "2026-11-22"
+doi: 10.5281/zenodo.24441874
+repository-code: https://github.com/syxinsyxin/gamma-recovery-report-pdf
 license: MIT
 keywords:
   - volumetric modulated arc therapy
