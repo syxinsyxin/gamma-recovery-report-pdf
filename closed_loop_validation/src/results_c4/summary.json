@@ -1,0 +1,16 @@
+{
+ "n_cases": 20,
+ "median_fit_a": 1.0167437315851195,
+ "median_fit_b": 0.9222891210469661,
+ "median_g_rec_dcm_base": 92.56102003642988,
+ "median_g_c4_dcm": 95.73351706593175,
+ "median_g_rec_plan_base": 96.57004321703384,
+ "median_g_c4_plan": 96.14367672736343,
+ "median_fit_ap": 1.0169498851503922,
+ "median_fit_bp": 0.48960122032949566,
+ "median_g_c5_plan_evcorr": 92.32092384720988,
+ "median_g_c5_plan_bothcorr": 96.82265902976656,
+ "median_declared_gpr": 98.80000000000001,
+ "median_delta_dcm": 4.6818791924496495,
+ "median_delta_plan": -1.1163159407116652
+}

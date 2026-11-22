@@ -1,0 +1,24 @@
+{
+  "n_cases": 20,
+  "median_g_raw_plan": 94.65075454497509,
+  "median_g_raw_dcm": 96.43756139691581,
+  "median_g_raw_sm_plan": 94.45289011142009,
+  "median_g_raw_sm_dcm": 96.25476735316553,
+  "median_g_rec_plan": 96.57004321703384,
+  "median_g_rec_dcm": 92.56102003642988,
+  "median_refEff_raw_rec_plan": -2.2534385516555915,
+  "median_refEff_raw_rec_dcm": 4.786641206898516,
+  "median_refEff_rawsm_rec_plan": -2.451302985210596,
+  "median_refEff_rawsm_rec_dcm": 5.052094731158633,
+  "median_srcEff_raw": -1.4860681114551042,
+  "median_srcEff_raw_sm": -1.610568653912317,
+  "median_srcEff_rec": 4.733105780170817,
+  "median_interaction": -7.436826577114509,
+  "median_delta_devA_pair": -2.254245455024905,
+  "orientations_used": [
+    "UD"
+  ],
+  "gamma_engines": [
+    "pymedphys"
+  ]
+}

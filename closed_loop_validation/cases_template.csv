@@ -1,0 +1,3 @@
+case_id,raw_path,rec_meas_npy,rec_plan_npy,dcm_path,declared_gpr,declared_mean_gamma,criteria,norm
+CASE001,data/raw/CASE001.csv,data/rec/CASE001_meas.npy,data/rec/CASE001_plan.npy,data/dcm/CASE001.dcm,98.2,0.28,3%/3mm,global
+CASE002,data/raw/CASE002.csv,data/rec/CASE002_meas.npy,data/rec/CASE002_plan.npy,data/dcm/CASE002.dcm,97.5,0.31,3%/3mm,global

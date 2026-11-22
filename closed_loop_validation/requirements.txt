@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pydicom>=2.4
+pymedphys>=0.40   # gamma engine behind the published numbers; validate.py mirrors its settings
